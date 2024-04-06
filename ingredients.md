@@ -1,3 +1,4 @@
+Let's begin!
 ingredients
 2 cups basmati rice
 2 egg yolks
@@ -14,3 +15,4 @@ Salt and pepper as needed
 1 large onion
 2 tablespoon slivered almonds(optional)
 2 tablespoon slivered pistachios(optional)
+Enjoy my recipe!
