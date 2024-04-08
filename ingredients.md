@@ -1,5 +1,5 @@
 Let's begin!
-ingredients 🧑‍🍳🧅🧄🥔🥩🧇
+ingredients
 2 cups basmati rice
 2 egg yolks
 1/3 cup dried barberries
