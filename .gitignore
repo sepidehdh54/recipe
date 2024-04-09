@@ -1,3 +1,6 @@
 **/*.log
 .DS_Store
 .ipynb_checkpoints
+.README_LOCAL_65857.md.swp
+.README_REMOTE_65857.md.swp
+.README.md.swp
